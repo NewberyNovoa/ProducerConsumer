@@ -1,0 +1,3 @@
+/home/newbery/Escritorio/TestItemProcesor/CMakeFiles/rebuild_cache.dir
+/home/newbery/Escritorio/TestItemProcesor/CMakeFiles/ProducerConsumer.dir
+/home/newbery/Escritorio/TestItemProcesor/CMakeFiles/edit_cache.dir

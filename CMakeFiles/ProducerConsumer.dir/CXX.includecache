@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/newbery/Escritorio/TestItemProcesor/ItemProcessor.h
+iostream
+-
+thread
+-
+mutex
+-
+fstream
+-
+list
+-
+vector
+-
+chrono
+-
+
+/home/newbery/Escritorio/TestItemProcesor/main.cpp
+iostream
+-
+ItemProcessor.h
+/home/newbery/Escritorio/TestItemProcesor/ItemProcessor.h
+
