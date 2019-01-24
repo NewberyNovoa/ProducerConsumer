@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/newbery/Escritorio/TestItemProcesor/ItemProcessor.h
+/home/newbery/Documentos/ProducerConsumer/ItemProcessor.h
 iostream
 -
 thread
@@ -22,9 +22,9 @@ vector
 chrono
 -
 
-/home/newbery/Escritorio/TestItemProcesor/main.cpp
+/home/newbery/Documentos/ProducerConsumer/main.cpp
 iostream
 -
 ItemProcessor.h
-/home/newbery/Escritorio/TestItemProcesor/ItemProcessor.h
+/home/newbery/Documentos/ProducerConsumer/ItemProcessor.h
 
